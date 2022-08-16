@@ -1,7 +1,7 @@
 ## Description of Files
 
 
-![TO-logo-647-RGB-1024x436 | width=400px](https://user-images.githubusercontent.com/63437818/184992340-f7397780-a812-42b9-b5ae-f672e2e2ef76.jpg)
+![TO-logo-647-RGB-1024x436](https://user-images.githubusercontent.com/63437818/184992340-f7397780-a812-42b9-b5ae-f672e2e2ef76.jpg | width=400px)
 
 
 File | Retrieved Dataset Link | Description|
