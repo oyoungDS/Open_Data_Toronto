@@ -1,6 +1,6 @@
 ## Description of Files
 
-![TO-logo-647-RGB-1024x436](https://user-images.githubusercontent.com/63437818/184991938-7a0bfa8d-e23d-4ec2-ab16-9896182b1f38.jpg)
+![TO-logo-647-RGB-800x436](https://user-images.githubusercontent.com/63437818/184991938-7a0bfa8d-e23d-4ec2-ab16-9896182b1f38.jpg)
 
 File | Retrieved Dataset Link | Description|
 -----| ---------------------- | -----------|
