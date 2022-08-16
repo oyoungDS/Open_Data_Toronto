@@ -1,6 +1,6 @@
 ## Description of Files
 
-<img src="https://user-images.githubusercontent.com/63437818/184992340-f7397780-a812-42b9-b5ae-f672e2e2ef76.jpg" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/63437818/184992340-f7397780-a812-42b9-b5ae-f672e2e2ef76.jpg" width="200" height="100">
 
 
 File | Retrieved Dataset Link | Description|
